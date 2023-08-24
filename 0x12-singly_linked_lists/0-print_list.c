@@ -7,6 +7,7 @@
  *
  * Return: the number of elements printed
  */
+
 size_t print_list(const list_t *h)
 {
 size_t j = 0;
